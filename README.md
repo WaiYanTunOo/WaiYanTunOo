@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaiYanTunOo
 - 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning CS in Uopeople.
+- 🌱 I’m currently learning Python and Flutter.
 
 
 <!---
